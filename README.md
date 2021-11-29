@@ -26,6 +26,7 @@ a-p.array([[4,2],[2,4]])
 ‚values, 'and Eigen Vectors are', vectors)
 ~~~
 ## Output:
+![](./images/eigen.png)
 
 ## Result:
 Thus the Eigenvalue and Eigenvector is successfully solved using python program
