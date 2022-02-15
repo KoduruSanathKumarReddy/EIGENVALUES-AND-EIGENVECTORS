@@ -20,7 +20,7 @@ End the program
 #Developed by: Koduru Sanath Kumar Reddy
 #RegisterNumber: 21000648
 import numpy as np
-a-p.array([[4,2],[2,4]])
+a=np.array([[4,2],[2,4]])
 (values, vectors-p.linalg.eig(a)
 7 print('Eigen values are
 ‚values, 'and Eigen Vectors are', vectors)
