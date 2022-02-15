@@ -22,8 +22,7 @@ End the program
 import numpy as np
 a=np.array([[4,2],[2,4]])
 (values, vectors-p.linalg.eig(a)
-7 print('Eigen values are
-‚values, 'and Eigen Vectors are', vectors)
+print('Eigen values are‚values, 'and Eigen Vectors are', vectors)
 ~~~
 ## Output:
 ![](./images/eigen.png)
